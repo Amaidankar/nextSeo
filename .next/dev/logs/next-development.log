@@ -1,5 +1,53 @@
-[00:00:00.744] Server  LOG      ✓ Ready in 541ms
-[00:00:05.459] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:06.876] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:00:00.746] Server  LOG      ✓ Ready in 538ms
+[00:00:04.697] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.967] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:00:14.127] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:14.673] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:17.484] Server  LOG     Fetching revenue data...
+[00:00:20.711] Server  LOG     Data fetch completed after 3 seconds.
+[00:00:24.811] Browser LOG     Searching... a
+[00:00:25.681] Browser LOG     Searching... as
+[00:00:29.802] Browser LOG     Searching... 
+[00:00:31.036] Browser LOG     Searching... ashish
+[00:00:33.289] Browser LOG     Searching... ashish 
+[00:00:33.603] Browser LOG     Searching... ashish h
+[00:00:34.493] Browser LOG     Searching... ashish heloo
+[00:00:36.914] Browser LOG     Searching... ashish helo
+[00:00:37.698] Browser LOG     Searching... a
+[00:00:39.418] Browser LOG     Searching... 
+[00:00:42.606] Browser LOG     Searching... hello
+[00:00:45.822] Browser LOG     Searching... hellohow a
+[00:00:46.331] Browser LOG     Searching... hellohow ar 
+[00:00:47.113] Browser LOG     Searching... hellohow ar uou 
+[00:00:49.946] Browser LOG     Searching... hellohow ar uou zala ka
+[00:00:52.016] Browser LOG     Searching... hellohow ar uou zala k
+[00:00:53.182] Browser LOG     Searching... 
+[00:00:55.287] Browser LOG     Searching... miche
+[00:00:57.255] Browser LOG     Searching... mich
+[00:00:59.293] Browser LOG     Searching... 
+[00:01:00.240] Browser LOG     Searching... mic
+[00:01:00.715] Browser LOG     Searching... mich
+[00:01:02.544] Browser LOG     Searching... m
+[00:01:03.093] Browser LOG     Searching... 
+[00:01:05.367] Browser LOG     Searching... micje
+[00:01:07.115] Browser LOG     Searching... m
+[00:01:07.817] Browser LOG     Searching... 
+[00:01:13.389] Browser LOG     Searching... miche
+[00:01:15.556] Browser LOG     Searching... mich
+[00:10:33.128] Server  LOG      ✓ Compiled in 108ms
+[00:10:33.152] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./Ashish/nextSeo/node_modules/.pnpm/next@16.0.10_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:10:33.848] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:43.686] Browser ERROR   uncaughtError: ReferenceError: allPages is not defined
+[00:13:30.649] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:13:30.841] Server  LOG      ✓ Compiled in 60ms
+[00:13:33.521] Server  ERROR    ⨯ ReferenceError: allPages is not defined
+[00:13:33.811] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:34.686] Browser ERROR   uncaughtError: ReferenceError: allPages is not defined
+[00:19:05.089] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:19:05.265] Server  LOG      ✓ Compiled in 64ms
+[00:19:08.174] Server  ERROR    ⨯ ReferenceError: Cannot access 'currentPage' before initialization
+[00:19:08.437] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:08.756] Browser ERROR   uncaughtError: ReferenceError: Cannot access 'currentPage' before initialization
+[00:19:36.915] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:19:37.108] Server  LOG      ✓ Compiled in 81ms
+[00:19:39.870] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

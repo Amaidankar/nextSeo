@@ -1,6 +1,6 @@
 var R=require("../../../chunks/ssr/[turbopack]_runtime.js")("server/app/dashboard/invoices/page.js")
-R.c("server/chunks/ssr/e6682_next_dist_dbf29b86._.js")
-R.c("server/chunks/ssr/[root-of-the-server]__327ab5a6._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__82433792._.js")
+R.c("server/chunks/ssr/46f40__pnpm_850ae122._.js")
 R.c("server/chunks/ssr/Ashish_fd16a6a7._.js")
 R.c("server/chunks/ssr/[root-of-the-server]__864ab248._.js")
 R.c("server/chunks/ssr/e6682_next_dist_client_components_builtin_global-error_51d57085.js")
